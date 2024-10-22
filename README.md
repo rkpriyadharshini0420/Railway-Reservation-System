@@ -1,5 +1,5 @@
 # EX NO:- 3  -  Railway-Reservation-System
-# Name - S.Mohammed Parvez
+# Name - Priya Dharshini R K
 # Reg No - 212223040155
 # AIM
  To Develope the Railway Reservation System using Star UML tool.
